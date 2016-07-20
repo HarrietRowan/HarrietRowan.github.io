@@ -12,5 +12,10 @@ And here is a list:
 * another bullet item
 * and another
 
+And here is a numbered list:
+
+1. one
+2. two
+3. three
 
 
